@@ -4,7 +4,7 @@
 
 Greetings, traveler of GitHub.
 
-I'm Roman — a software engineer, analyst, and full-stack developer with 25+ years of experience wrestling with systems so old, they remember dial-up. My toolbox includes everything from PHP and Delphi to React, Spring, PostgreSQL, and Unreal Engine 4.
+I'm Roman — a software engineer, analyst, and full-stack developer with 25+ years of experience wrestling with systems so old, they remember dial-up. My toolbox includes everything from C++, PHP and Delphi to React, Spring, PostgreSQL, and Unreal Engine 4.
 
 I specialize in:
 - 🔍 Reverse engineering chaotic codebases
