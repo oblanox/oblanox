@@ -39,6 +39,9 @@ I’ve built exchanges between 1C and websites, automated businesses, written ba
 ### 🧭 Currently:
 Helping clients build robust web apps via [prosto.website](http://prosto.website) — minimalistic by design, powerful by backend, and not too shabby on the frontend either.
 
+📍 Location: Moscow, Russia & Astana, Kazakhstan  
+(Remote-first, flexible with time zones UTC+3 to UTC+6)
+
 ---
 
 > “Code should not be poetry. Code should be a well-structured legal document written by a slightly sarcastic lawyer.”
